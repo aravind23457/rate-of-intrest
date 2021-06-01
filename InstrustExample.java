@@ -1,7 +1,7 @@
 package com.aravind;
-import  com.aravind.util.CalculateIntrest.getInstrust;
+import  static com.aravind.util.CalculateIntrest.getInstrust;
 public class InstrustExample{
-public static void main (String[] arg){
+public static void main(String[] arg){
 if(arg.length<3){ 
 System.out.println (" please provide p t r values");
 
